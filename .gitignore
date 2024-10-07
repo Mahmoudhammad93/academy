@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+resources/js/vue-translations.js
+public/js/app.js
+public/css/app.css
+public/js/app.js
+public/mix-manifest.json

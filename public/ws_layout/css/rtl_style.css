@@ -1,0 +1,261 @@
+ /* exam lesson */
+
+ #quiz-zes .quiz-bar .alert-info {
+	border-right: 4px solid;
+	text-align: right;
+	border-left: unset !important;
+}
+
+#quiz-zes .col-md-6.title .card-title {
+	text-align: right !important;
+	float: right !important;
+}
+
+#quiz-zes .quiz-bar .card-header .date h4 {
+	float: left;
+}
+
+#quiz-zes .side-bar .panel-footer .controls .btn i {
+	margin-right: unset;
+	margin-left: 5px;
+}
+
+#quiz-zes .side-bar .panel-footer ul.legends li span.num {
+	margin-left: 10px;
+	margin-right: unset;
+}
+
+#quiz-zes .side-bar .panel-footer h2 {
+	text-align: right;
+}
+
+#quiz-zes .side-bar .sub-heading h3 {
+	text-align: right;
+}
+
+#quiz-zes  .side-bar .sub-heading p {
+	text-align: right;
+}
+
+#quiz-zes .row.btns .col-md-12.text-left {
+	text-align: right !important;
+}
+
+#quiz-zes .side-bar .user-info .user-name h5 {
+	text-align: right;
+}
+
+#quiz-zes .quiz-bar .panel-heading {
+	text-align: right;
+}
+
+#quiz-zes .marks {
+	left: 30px;
+	right: unset !important;
+    box-shadow: 5px 2px 4px #f1f1f1;
+}
+
+
+#quiz-zes .marks::before,
+#quiz-zes .marks::after {
+	left: 0;
+	right: unset !important;
+}
+
+#quiz-zes .marks::after {
+    border-color: #ffffff #f1f1f1 #f1f1f1 #ffffff;
+}
+
+#quiz-zes h3.question_type_title {
+	text-align: right;
+    margin-bottom: 7px;
+    position: relative;
+    padding-right: 25px !important;
+    padding-left: unset;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 7px;
+}
+
+
+#quiz-zes h3.question_type_title:before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    border-style: solid;
+    border-color: #44a1ef transparent transparent #44a1ef;
+    border-width: 2px;
+    position: absolute;
+    top: calc((100% - 10px) / 2);
+    right: 0 !important;
+    left: unset;
+    transform: rotate(
+-45deg
+) !important;
+}
+
+#quiz-zes .qus-footer hr {
+    display: none;
+}
+
+#quiz-zes p.instructions.text-secondary {
+	text-align: right;
+    margin-bottom: 30px;
+}
+
+#quiz-zes .question.text-info h4,
+.info-row div.info h4 {
+	text-align: right;
+}
+
+#quiz-zes .answers_section {
+	text-align: right;
+}
+
+#quiz-zes .answers_section div label{
+	margin-left: 50px;
+}
+
+#quiz-zes ul.library-statistic li {
+	border-right: 5px solid red;
+	text-align: right;
+	border-left: unset;
+}
+
+#quiz-zes li.palette.pallete-elements.badge {
+	float: right;
+}
+
+#quiz-zes .side-bar .heading-info .time-status #clockdiv {
+	direction: rtl;
+}
+
+#quiz-zes button.btn.btn-lg.btn-info.button.next i:before {
+    transform: rotate(180deg);
+}
+
+#quiz-zes button.btn.btn-lg.btn-info.button.prev i:before {
+    transform: rotate(180deg);
+}
+.setting-menu h3.head,
+.setting-menu ul li{
+    text-align: right;
+}
+
+.opt a:first-of-type{
+    border-left: 1px solid #ddd;
+    border-right: unset;
+}
+
+.user-opt{
+    left: 5px;
+    right: auto;
+}
+
+
+.price_box {
+    padding-right: 35px;
+    padding-left: 0;
+}
+
+.course_price {
+    margin-right: auto;
+    margin-left: unset;
+}
+
+.course_author_name {
+    font-size: 14px;
+    font-weight: 500;
+    color: #1a1a1a;
+    padding-left: unset;
+    margin-top: 7px;
+    margin-right: 20px;
+}
+
+button.rightLst, button.leftLst {
+    transform: rotate(180deg);
+}
+
+.input_field {
+    padding-right: 25px;
+}
+
+.col-lg-4.service_item.text-left.d-flex.flex-column.align-items-start.justify-content-start p {
+    text-align: right;
+}
+
+.event_content div, .event_content p {
+    text-align: right;
+}
+
+.col-lg-3.footer_col {
+    text-align: right;
+}
+
+.newsletter_email {
+    padding-right: 27px;
+    margin-left: unset;
+}
+
+.about-head-inner {
+    text-align: right;
+}
+
+.about .services.page_section p {
+    text-align: right !important;
+}
+
+.col-lg-8.service_item.classes.text-left.d-flex.flex-column.align-items-start.justify-content-start p, .col-lg-8.service_item.classes.text-left.d-flex.flex-column.align-items-start.justify-content-start li {
+    text-align: right;
+}
+
+ul.classes li {
+    list-style: circle;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.rs2-wrap-input100 {
+    border-left: 1px solid #e6e6e6;
+    border-right: none;
+}
+
+.contact100-more.flex-col-c-m * {
+    text-align: right;
+}
+
+h3.home-title {
+    text-align: right;
+}
+
+.about h1 {
+    text-align: right;
+}
+
+.contact100-form-title {
+    letter-spacing: -1px;
+}
+
+.classes-students h3 {
+    text-align: right;
+}
+
+.classes-students p {
+    text-align: right;
+}
+
+
+.col-md-12.stu-btn {
+    text-align: right;
+}
+
+span.check{
+    margin-left: 10px;
+    margin-right: auto;
+}
+
+h2.home-title,
+p.about_desc{
+    text-align: right;
+}
+
+/* end of exam lesson */
